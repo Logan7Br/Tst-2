@@ -1,5 +1,7 @@
 numero = input('Digite um número inteiro: ')
 
+print("Rodrigo é maneiro"
+
 try:
     numero_int = int(numero)
     if  numero_int % 2 == 0:
